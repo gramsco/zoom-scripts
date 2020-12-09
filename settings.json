@@ -1,0 +1,8 @@
+{
+    "host_video":false,
+    "participant_video":false,
+    "join_before_host":true,
+    "mute_upon_entry":true,
+    "approval_type":0,
+    "show_share_button":false
+}
